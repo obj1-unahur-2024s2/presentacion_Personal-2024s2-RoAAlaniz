@@ -1,4 +1,4 @@
-![Logo UNAHUR](./assets/UNAHUR.png)
+![Fondo rojo presentación](fondo.jpg)
 
 Bienvenidxs a
 # Programación con objetos I
